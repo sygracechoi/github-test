@@ -14,3 +14,6 @@ vscode 왼쪽 깃아이콘
 위의 체크버튼으로 git commit
 message란에 메모 입력
 파일 많고 복잡할 때 유용
+
+commit 전에 현재 vs 최근commit 차이점 확인
+git diff 명령으로 차이점 분석 가능
