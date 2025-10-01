@@ -8,3 +8,9 @@ git add . -> 모든 파일 스테이징
 git status -> 상태 확인
 git log --all --oneline -> 커밋 내역 조회
 새 기능 만들었을 때 등등 commit 하기
+
+vscode 왼쪽 깃아이콘
++ 버튼으로 git add
+위의 체크버튼으로 git commit
+message란에 메모 입력
+파일 많고 복잡할 때 유용
