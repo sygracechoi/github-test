@@ -26,7 +26,6 @@ git difftool 커밋아이디 명령어로 커밋의 차이점 비교
 
 git graph 확장팩 설치 -> 왼쪽 상단에서 아이콘 클릭해서
                         비교 기능 사용 가능
-<<<<<<< HEAD
 
 branch 기능 (복사본)
 git branch 브랜치명 -> 브랜치 생성
@@ -50,3 +49,7 @@ git switch main -> git merge --squash 새브랜치
 git push -u 원격저장소주소 올릴로컬브랜치명
 레포지토리 주소를 변수로 등록가능
 git remote add 변수명 주소 -> 주소가 변수명에 할당됨
+-u 옵션 사용시 주소를 알아서 기억함
+이후 git push만으로 간편히 사용 가능
+git clone 원격저장소주소 -> 내용 내려받아서 시작할 수 있음
+.gitignore 파일을 만들면 스테이징에 제외할 파일 명시할 수 있음
