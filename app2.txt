@@ -1,8 +1,8 @@
-another test
-alksjd;bakjd
-ㅣㅏㅓ;ㅣㅠㅏㅓㅁ;ㄴㅇㄹ
 git add 파일명
 git commit -m '메모사항'
+파일의 현재 상태를 기록함
+staging area -> commit 하기 전에 commit할 파일들을 골라놓음
+repository -> commit된 파일의 버전들을 모아놓음
 add -> 파일 스테이징
 git add . -> 모든 파일 스테이징
 git status -> 상태 확인
