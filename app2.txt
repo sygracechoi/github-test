@@ -24,6 +24,7 @@ git difftool 커밋아이디 명령어로 커밋의 차이점 비교
 
 git graph 확장팩 설치 -> 왼쪽 상단에서 아이콘 클릭해서
                         비교 기능 사용 가능
+<<<<<<< HEAD
 
 branch 기능 (복사본)
 git branch 브랜치명 -> 브랜치 생성
