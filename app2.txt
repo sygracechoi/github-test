@@ -30,3 +30,5 @@ git branch 브랜치명 -> 브랜치 생성
 git switch 브랜치명 -> 브랜치로 이동
 main branch / master branch
 각각의 브랜치는 독립적으로 사용
+git merge 브랜치명 -> 현재 브랜치와 해당 브랜치를 합침
+merge 시 충돌할 수 있음
