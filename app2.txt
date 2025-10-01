@@ -17,3 +17,10 @@ message란에 메모 입력
 
 commit 전에 현재 vs 최근commit 차이점 확인
 git diff 명령으로 차이점 분석 가능
+-> 명령 입력 후 hjkl로 스크롤바 조작, q로 종료
+근데 잘 안 씀
+git difftool 으로 시각적으로 비교 가능
+git difftool 커밋아이디 명령어로 커밋의 차이점 비교
+
+git graph 확장팩 설치 -> 왼쪽 상단에서 아이콘 클릭해서
+                        비교 기능 사용 가능
