@@ -3,3 +3,5 @@ alksjd;bakjd
 ㅣㅏㅓ;ㅣㅠㅏㅓㅁ;ㄴㅇㄹ
 git add 파일명
 git commit -m '메모사항'
+add -> 파일 스테이징
+git add . -> 모든 파일 스테이징
