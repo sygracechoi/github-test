@@ -53,3 +53,8 @@ git remote add 변수명 주소 -> 주소가 변수명에 할당됨
 이후 git push만으로 간편히 사용 가능
 git clone 원격저장소주소 -> 내용 내려받아서 시작할 수 있음
 .gitignore 파일을 만들면 스테이징에 제외할 파일 명시할 수 있음
+팀원의 깃헙아이디 등록해야 git push 가능
+원격저장소에 새로운 게 생기면 push 불가 (원격-로컬 차이 있을 경우)
+git pull 원격저장소주소 브랜치명 (git fetch + git merge) 
+-u 옵션 사용했다면 주소 생략 가능
+git pull -> git push 순으로 진행
