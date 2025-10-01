@@ -47,3 +47,6 @@ squash and merge -> main 브랜치의 로그를 깔끔하게
 git switch main -> git merge --squash 새브랜치
 
 온라인 레포지토리 -> 협업, 백업 등
+git push -u 원격저장소주소 올릴로컬브랜치명
+레포지토리 주소를 변수로 등록가능
+git remote add 변수명 주소 -> 주소가 변수명에 할당됨
