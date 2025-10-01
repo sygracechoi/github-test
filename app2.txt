@@ -5,3 +5,5 @@ git add 파일명
 git commit -m '메모사항'
 add -> 파일 스테이징
 git add . -> 모든 파일 스테이징
+git status -> 상태 확인
+git log --all --oneline -> 커밋 내역 조회
