@@ -1,2 +1,5 @@
 another test
 alksjd;bakjd
+ㅣㅏㅓ;ㅣㅠㅏㅓㅁ;ㄴㅇㄹ
+git add 파일명
+git commit -m '메모사항'
